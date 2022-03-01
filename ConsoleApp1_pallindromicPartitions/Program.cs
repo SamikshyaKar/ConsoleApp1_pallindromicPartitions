@@ -84,6 +84,9 @@ namespace ConsoleApp1_pallindromicPartitions
 
 
             PrintAllPalindrome.Calculate();
+
+            DiamondPyramid obj = new DiamondPyramid();          
+            obj.DiamondPyramidmethod();
         }
     }
 }
